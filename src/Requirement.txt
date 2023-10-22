@@ -1,0 +1,7 @@
+The solutions provided use the following libraries and dependencies:
+
+1. React: The core library for building the user interface and managing the component-based structure of the application.
+
+2. React Router: A popular routing library for handling navigation and creating different pages within a React application. In the example, it's used for setting up routes and creating different pages.
+
+3. React Error Boundary: This is not a separate library but a built-in concept in React. In the example, an ErrorBoundary component is created to catch and handle errors within the app.
